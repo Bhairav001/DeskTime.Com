@@ -1,0 +1,16 @@
+#Navbar{
+    display: flex;
+    justify-content: space-between;
+}
+#img{
+    display: flex;
+}
+#about{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 5rem;
+}
+#btn{
+    display: flex;
+}
+
